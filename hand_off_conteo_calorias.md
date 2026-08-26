@@ -62,6 +62,7 @@ Cada vez que te indique lo que he comido:
 | Soja texturizada Luengo seca |                100 g |  361 |  8,8 g |     13 g |     50 g |     X |
 | Griego Ligero Natural Hacendado |             100 g |   60 |    2 g |    4,7 g |    5,8 g |     X |
 | Yogur griego MILBONA (Lidl)  |                100 g |   58 |    2 g |      4 g |      6 g |     X |
+| Bebida de avena 0% azúcar Hacendado | 100 ml |   35 |  1,4 g |    4,7 g |    0,7 g | 0,5 g |
 
 **Regla sobre la fibra:** si el fabricante no ha proporcionado fibra para uno de estos productos, mostrar “X” o una estimación claramente identificada, sin presentarla como dato del producto.
 
@@ -69,7 +70,7 @@ Cada vez que te indique lo que he comido:
 
 - Café solo: considerar aporte prácticamente nulo, salvo azúcar u otros añadidos.
 - En “café con 50 ml de leche de avena”, contabilizar exactamente 50 ml de bebida de avena por café.
-- Si no se indican los valores de la bebida de avena, usar una estimación estándar y mostrarla como tal.
+- Salvo que se indique otra marca, usar los valores de "Bebida de avena 0% azúcar Hacendado" de la tabla de productos. Si se especifica otra marca sin datos, usar una estimación estándar y mostrarla como tal.
 - Para frutas y verduras por unidad, indicar el peso comestible supuesto.
 - Para “media cebolla”, “un pepino”, “una banana”, “una pera”, etc., indicar el peso estimado utilizado.
 - Para huevos, distinguir entre huevo entero, clara y yema según lo escrito.
