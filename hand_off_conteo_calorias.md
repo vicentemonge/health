@@ -63,6 +63,7 @@ Cada vez que te indique lo que he comido:
 | Griego Ligero Natural Hacendado |             100 g |   60 |    2 g |    4,7 g |    5,8 g |     X |
 | Yogur griego MILBONA (Lidl)  |                100 g |   58 |    2 g |      4 g |      6 g |     X |
 | Bebida de avena 0% azúcar Hacendado | 100 ml |   35 |  1,4 g |    4,7 g |    0,7 g | 0,5 g |
+| Bebida de soja 0% azúcares Hacendado | 100 ml |   32 |  1,6 g |    0,8 g |    2,8 g | 0,4 g |
 
 **Regla sobre la fibra:** si el fabricante no ha proporcionado fibra para uno de estos productos, mostrar “X” o una estimación claramente identificada, sin presentarla como dato del producto.
 
