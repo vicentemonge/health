@@ -266,3 +266,48 @@ Ejemplo: para 40 g de mezcla, usar 28 g de soja, 8 g de guisante y 4 g de arroz.
 ### Precaución interpretativa
 
 El cumplimiento del patrón de aminoácidos no garantiza por sí solo una puntuación DIAAS concreta. Para calcular DIAAS harían falta coeficientes fiables de digestibilidad ileal de cada aminoácido en cada producto. Tampoco debe afirmarse que hace falta más de 50% de soja: con los datos disponibles, otras proporciones complementarias pueden cumplir el patrón, y la soja HSN ya lo cumple por sí sola.
+
+# Extensión del handoff: Objetivo diario de proteína
+
+## Prompt original del usuario
+
+> Según mi perfil actual:
+> - 100kg de peso quiero bajar a 85
+> - ~23% de grasa corporal
+> - Cross training, bici u otros deportes casi a diario
+> - Objetivo: perder grasa manteniendo o aumentando masa muscular
+> - Dieta ovo-vegetariana
+>
+> Revisa la cantidad de proteínas que necesito al día
+
+## Razonamiento y evidencia científica
+
+**Punto de partida:** el cálculo se basa en la masa libre de grasa (FFM, "fat-free mass"), no en el peso total, porque con un 23% de grasa corporal usar el peso total sobreestimaría la necesidad real.
+
+- Peso: 100 kg
+- Grasa corporal: ~23% → ~23 kg de grasa
+- **Masa libre de grasa (FFM) ≈ 77 kg**
+
+**Evidencia utilizada — ISSN Position Stands (International Society of Sports Nutrition):**
+
+1. *Position Stand: Protein and Exercise* (Jäger et al., 2017, *J Int Soc Sports Nutr*): para mantener/ganar masa muscular en población entrenada, 1,4–2,0 g/kg de peso corporal/día es suficiente en condiciones de mantenimiento calórico. Sin embargo, en periodos hipocalóricos (déficit), la sociedad indica que pueden ser necesarios 2,3–3,1 g/kg/día para maximizar la retención de masa magra en sujetos entrenados y magros. También señala evidencia emergente de que ingestas >3,0 g/kg podrían favorecer la pérdida de grasa en individuos entrenados en fuerza.
+2. *Position Stand: Diets and Body Composition* (Aragon et al., 2017, *J Int Soc Sports Nutr*): reafirma el mismo rango, pero expresado directamente **por kg de FFM** (2,3–3,1 g/kg FFM), en sujetos magros y entrenados bajo restricción calórica — este es el marco que se aplica aquí, ya que se ajusta mejor a un % de grasa corporal conocido.
+
+**Aplicación al caso concreto:**
+
+Con FFM ≈ 77 kg y aplicando el rango 2,3–3,1 g/kg FFM:
+
+| Nivel | g/kg FFM | Proteína total/día |
+| --- | ---: | ---: |
+| Mínimo efectivo | 2,3 | ~177 g |
+| Óptimo en déficit | 2,7 | ~208 g |
+| Límite superior | 3,1 | ~239 g |
+
+**Recomendación práctica: 180–210 g de proteína al día**, revisable si cambia el % de grasa corporal medido, el volumen de entrenamiento o el resultado observado (composición corporal, rendimiento, saciedad).
+
+## Notas de contexto
+
+- Esta cifra es más alta que la referencia genérica de 1,6–2,2 g/kg de peso total, precisamente porque el usuario está en déficit calórico buscando preservar/ganar músculo, no solo mantenerlo.
+- No es una prescripción médica ni ha sido ajustada por ningún profesional sanitario; es una aplicación directa de guías deportivas generales (ISSN) al perfil indicado por el usuario.
+- Con dieta ovo-vegetariana, las fuentes proteicas ya usadas (tofu, seitán, kéfir, huevos, quinoa, soja texturizada) y la mezcla de proteína vegetal en polvo (70% soja/20% guisante/10% arroz) descrita más arriba son las palancas principales para alcanzar este rango.
+- Este objetivo (180–210 g/día) se añade como referencia adicional al de 1.800 kcal, y debe usarse junto con él al evaluar los registros diarios, salvo indicación contraria del usuario.
