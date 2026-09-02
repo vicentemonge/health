@@ -56,6 +56,8 @@ Cada vez que te indique lo que he comido:
 | Kéfir 0% Nestlé              |                100 g |   33 |  0,1 g |    4,3 g |    3,5 g |     X |
 | kéfir 0% Mercadona           |                 100g |   36 |   0,5g |     4,8g |     3,9g |     X |
 | Kéfir Natural Consum         |                100 ml |   45 |  1,5 g |    4,4 g |    3,5 g |     X |
+| Kéfir desnatado 0% Pastoret  |                100 g |   31 |  0,1 g |    3,6 g |    3,4 g |     X |
+| Quinoa blanca y roja Brillante (cocida, envase 125g) | 100 g |  160 |  3,6 g |     24 g |      6 g | 3,7 g |
 | Tortita de arroz Consum      |       7,5 g / unidad |   29 |  0,2 g |    6,2 g |    0,6 g |     X |
 | Tortita de maíz Consum       |       7,5 g / unidad |   28 |  0,2 g |    6,0 g |    0,6 g |     X |
 | Tortita de arroz Lidl        |       7,2 g / unidad |   28 |  0,3 g |    5,7 g |    0,5 g |     X |
