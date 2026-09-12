@@ -232,40 +232,63 @@ La proteína de soja aislada HSN, por sí sola, ya alcanza el patrón de referen
 | 70% soja / 20% guisante / 10% arroz |        Metionina + Cisteína |                         132.5% |    Sí    |
 
 
-### Mezcla práctica recomendada
+### Mezcla práctica recomendada (sustituye a la versión 70/20/10)
 
-**70% soja + 20% guisante + 10% arroz, por peso de polvo.** Esta combinación supera el patrón FAO con margen y diversifica las fuentes proteicas. No es necesario añadir arroz para que la soja sea completa, pero puede mantenerse por preferencia de sabor, textura o variedad.
+**45% soja + 20% guisante + 15% lenteja + 10% arroz + 10% semilla de calabaza, por peso de polvo.**
 
-| Aminoácido indispensable | Mezcla 70/20/10 (mg/g proteína) | Patrón FAO | Cumple |
-| ------------------------ | ------------------------------: | ---------: | :----: |
-| Histidina                |                            24.3 |         16 |   Sí   |
-| Isoleucina               |                            42.0 |         30 |   Sí   |
-| Leucina                  |                            81.9 |         61 |   Sí   |
-| Lisina                   |                            66.5 |         48 |   Sí   |
-| Metionina + Cisteína     |                            30.5 |         23 |   Sí   |
-| Fenilalanina + Tirosina  |                            87.1 |         41 |   Sí   |
-| Treonina                 |                            35.6 |         25 |   Sí   |
-| Triptófano               |                            11.0 |        6.6 |   Sí   |
-| Valina                   |                            61.1 |         40 |   Sí   |
+Historial de esta recomendación:
+1. Versión inicial: 70% soja + 20% guisante + 10% arroz (con los 3 primeros HSN conocidos).
+2. Al incorporar garbanzo, lenteja, cáñamo y calabaza, se propuso una versión sin soja (50% garbanzo + 30% cáñamo + 20% calabaza) razonando que la soja ya se consume en abundancia como comida (tofu, seitán, soja texturizada) y que el cáñamo/calabaza aportarían variedad. **Este razonamiento tenía un fallo**: no consideró la eficiencia calórica por gramo de proteína, un criterio relevante porque el usuario está en déficit calórico. Al recalcular:
 
+| Fuente | kcal / g proteína |
+| --- | ---: |
+| Soja | 4,08 (más eficiente) |
+| Arroz | 4,92 |
+| Guisante | 4,98 |
+| Lenteja | 5,16 |
+| Calabaza | 5,33 |
+| Cáñamo | 6,76 |
+| Garbanzo | 7,31 (menos eficiente) |
 
-### Alternativa más equilibrada entre las tres fuentes
+El garbanzo, que tenía protagonismo en la versión sin soja, es la fuente **menos** eficiente en calorías de las 7 — justo lo contrario de lo conveniente en déficit calórico. La soja, en cambio, es la más eficiente, y el hecho de que ya se consuma como alimento no la penaliza en el batido: al contrario, es donde más rinde.
 
-**50% soja + 30% guisante + 20% arroz, por peso de polvo**, también cumple todo el patrón. Ofrece más presencia de guisante y arroz manteniendo un margen suficiente en todos los aminoácidos indispensables.
+3. Versión corregida (esta): recupera la soja como base, reduce el peso del garbanzo (retirado), mantiene el cáñamo fuera (ver razón más abajo) y conserva guisante, lenteja, arroz y calabaza en menor proporción por variedad y micronutrientes.
+
+**Impacto cuantificado de la corrección:** para una dosis diaria típica de 40 g de proteína desde el batido, la versión sin soja costaría ~222 kcal frente a ~184 kcal de la versión corregida — una diferencia de ~38 kcal/día (~2% de un objetivo de 1.800 kcal). Es una mejora real pero modesta, no dramática.
+
+**Por qué se descarta el cáñamo:** de las 7 fuentes es la que peor cumple el patrón FAO en solitario (triptófano ~0 mg/100 g según la etiqueta HSN consultada, lisina y leucina también bajas) y además es la segunda menos eficiente en calorías (6,76 kcal/g proteína). Incluso usando una cifra de triptófano de la literatura científica general en lugar de la etiqueta (~2,2 mg/g proteína en vez de 0), seguiría siendo limitante muy por debajo del patrón (33% vs. el mínimo). No aporta ninguna ventaja que las otras 6 fuentes no cubran ya.
+
+**Por qué se mantiene el garbanzo fuera pero no la lenteja:** ambas son legumbres con perfil de aminoácidos similar, pero el garbanzo es la más cara en calorías (497 kcal/100 g, con 23 g de grasa) frente a la lenteja (418 kcal/100 g). Retirar el garbanzo no supone pérdida de hierro, ya que la lenteja aporta un contenido igual o mayor (157% VRN de hierro por ración frente al 121% del garbanzo).
+
+| Aminoácido indispensable | Mezcla 45/20/15/10/10 (mg/g proteína) | Patrón FAO | Cumple |
+| ------------------------ | -------------------------------------: | ---------: | :----: |
+| Histidina                |                                   23.9 |         16 |   Sí   |
+| Isoleucina               |                                   43.1 |         30 |   Sí   |
+| Leucina                  |                                   82.4 |         61 |   Sí   |
+| Lisina                   |                                   64.6 |         48 |   Sí   |
+| Metionina + Cisteína     |                                   29.9 |         23 |   Sí   |
+| Fenilalanina + Tirosina  |                                   87.7 |         41 |   Sí   |
+| Treonina                 |                                   34.7 |         25 |   Sí   |
+| Triptófano               |                                   11.0 |        6.6 |   Sí   |
+| Valina                   |                                   61.3 |         40 |   Sí   |
+
+Proteína neta de esta mezcla: 86 g por 100 g de polvo. Aminoácido con menor margen: metioinina+cisteína, al 130% del patrón.
 
 ### Regla para dimensionar una toma
 
 Para una cantidad total de mezcla `T` gramos:
 
-- Soja = `0,70 × T`
+- Soja = `0,45 × T`
 - Guisante = `0,20 × T`
+- Lenteja = `0,15 × T`
 - Arroz = `0,10 × T`
+- Semilla de calabaza = `0,10 × T`
 
-Ejemplo: para 40 g de mezcla, usar 28 g de soja, 8 g de guisante y 4 g de arroz.
+Ejemplo: para 40 g de mezcla, usar 18 g de soja, 8 g de guisante, 6 g de lenteja, 4 g de arroz y 4 g de semilla de calabaza.
 
 ### Precaución interpretativa
 
-El cumplimiento del patrón de aminoácidos no garantiza por sí solo una puntuación DIAAS concreta. Para calcular DIAAS harían falta coeficientes fiables de digestibilidad ileal de cada aminoácido en cada producto. Tampoco debe afirmarse que hace falta más de 50% de soja: con los datos disponibles, otras proporciones complementarias pueden cumplir el patrón, y la soja HSN ya lo cumple por sí sola.
+El cumplimiento del patrón de aminoácidos no garantiza por sí solo una puntuación DIAAS concreta. Para calcular DIAAS harían falta coeficientes fiables de digestibilidad ileal de cada aminoácido en cada producto. La proporción exacta de cada fuente no es única: otras combinaciones de las mismas 5 fuentes, o incluso solo soja, pueden cumplir igualmente el patrón — esta es la que se considera más eficiente en calorías por gramo de proteína entre las opciones evaluadas para este caso concreto, no la única mezcla válida.
 
 # Extensión del handoff: Objetivo diario de proteína
 
@@ -355,20 +378,13 @@ Alanina 3297, Arginina 11727, Aspártico 6669, Cisteína 985, Glutámico 14368, 
 
 Lectura: garbanzo y lenteja se comportan como las legumbres ya conocidas (soja, guisante) — casi completas en solitario. El cáñamo es el más débil de las cuatro por su triptófano prácticamente nulo en esta etiqueta, y la calabaza es limitante en lisina, coherente con la literatura científica revisada previamente.
 
-## Mezcla que cumple el patrón combinando las cuatro nuevas fuentes
+## Mezcla que cumple el patrón combinando las cuatro nuevas fuentes (superada, ver nota)
 
-**50% garbanzo + 30% cáñamo + 20% semilla de calabaza, por peso de polvo**, calculado con el mismo método (aminograma ponderado por proteína real aportada por cada polvo).
-
-| Aminoácido indispensable | Mezcla 50/30/20 (mg/g proteína) | Patrón FAO | Cumple |
-| --- | ---: | ---: | :---: |
-| Lisina (limitante) | 51,8 | 48 | Sí (107,8%) |
-| Resto de aminoácidos | Todos por encima de 110% del patrón | — | Sí |
-
-Esta mezcla resuelve el triptófano casi nulo del cáñamo apoyándose en garbanzo y calabaza, y compensa la lisina más baja de cáñamo/calabaza con el garbanzo.
+Se calculó en su momento una mezcla de **50% garbanzo + 30% cáñamo + 20% semilla de calabaza** que cumplía el patrón FAO (lisina como limitante al 107,8%). Esta mezcla quedó descartada como recomendación práctica: no consideraba la eficiencia calórica por gramo de proteína, y el garbanzo resultó ser la fuente más cara en calorías de las 7 conocidas (7,31 kcal/g proteína), justo lo contrario de lo conveniente en un contexto de déficit calórico. El cálculo de aminoácidos en sí era correcto — el fallo fue de criterio, no aritmético. La sección "Mezcla práctica recomendada" más arriba refleja la versión corregida (45% soja + 20% guisante + 15% lenteja + 10% arroz + 10% calabaza).
 
 ## Conclusión práctica
 
-- Garbanzo y lenteja no necesitan combinarse con nada para cumplir el patrón — son funcionalmente equivalentes a soja/guisante como base.
-- Cáñamo es la fuente más floja de las cuatro nuevas (triptófano ~0 en esta etiqueta, lisina y leucina algo bajas) — no debe usarse en solitario como única fuente de proteína.
-- Semilla de calabaza es limitante en lisina, coherente con literatura, pero se complementa fácilmente con cualquiera de las legumbres (garbanzo, lenteja, soja, guisante).
-- La mezcla 70% soja + 20% guisante + 10% arroz descrita anteriormente sigue siendo válida y ya cumple el patrón; estas cuatro fuentes nuevas son alternativas de variedad, no una necesidad nutricional adicional.
+- Garbanzo y lenteja no necesitan combinarse con nada para cumplir el patrón — son funcionalmente equivalentes a soja/guisante en aminoácidos, pero el garbanzo es notablemente menos eficiente en calorías.
+- Cáñamo es la fuente más floja de las siete en aminoácidos (triptófano ~0 en esta etiqueta, lisina y leucina algo bajas) y también de las menos eficientes en calorías — no se recomienda en solitario ni como componente relevante de la mezcla.
+- Semilla de calabaza es limitante en lisina, coherente con literatura, pero se complementa fácilmente con cualquiera de las legumbres (garbanzo, lenteja, soja, guisante); se mantiene en la mezcla final por su aporte de zinc, magnesio y arginina.
+- La mezcla práctica recomendada final es la descrita arriba (45/20/15/10/10 con soja como base), no esta.
