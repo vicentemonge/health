@@ -311,3 +311,64 @@ Con FFM ≈ 77 kg y aplicando el rango 2,3–3,1 g/kg FFM:
 - No es una prescripción médica ni ha sido ajustada por ningún profesional sanitario; es una aplicación directa de guías deportivas generales (ISSN) al perfil indicado por el usuario.
 - Con dieta ovo-vegetariana, las fuentes proteicas ya usadas (tofu, seitán, kéfir, huevos, quinoa, soja texturizada) y la mezcla de proteína vegetal en polvo (70% soja/20% guisante/10% arroz) descrita más arriba son las palancas principales para alcanzar este rango.
 - Este objetivo (180–210 g/día) se añade como referencia adicional al de 1.800 kcal, y debe usarse junto con él al evaluar los registros diarios, salvo indicación contraria del usuario.
+
+# Extensión del handoff: Garbanzo, lenteja, cáñamo y semilla de calabaza HSN
+
+## Datos de producto (etiqueta HSN, por 100 g de producto)
+
+Fuente: fichas de producto de hsnstore.com/hsnstore.eu, EssentialSeries. HSN advierte que estos valores están basados en lotes concretos de producción y pueden variar ligeramente respecto al etiquetado físico.
+
+### Proteína de garbanzo (68 g proteína/100 g)
+Energía: 497 kcal | Grasas: 23 g | HC: 3 g | Sal: 1,8 g | Hierro: 17 mg (121% VRN)
+
+Aminograma (mg/100 g producto):
+Alanina 2903, Arginina 6204, Aspártico 7875, Cisteína 1356, Glutámico 11313, Glicina 2623, Histidina 1753, Isoleucina 3280, Leucina 5862, Lisina 4547, Metionina 1397, Fenilalanina 4451, Prolina 2787, Serina 3622, Treonina 2383, Triptófano 582, Tirosina 2321, Valina 3205
+
+### Proteína de lenteja (81 g proteína/100 g)
+Energía: 418 kcal | Grasas: 8,6 g | HC: 2 g | Sal: 1,5 g | Hierro: 22 mg (157% VRN)
+
+Aminograma (mg/100 g producto):
+Alanina 3421, Arginina 7166, Aspártico 9279, Cisteína 934, Glutámico 13666, Glicina 3193, Histidina 2064, Isoleucina 4111, Leucina 7337, Lisina 5834, Metionina 918, Fenilalanina 4818, Prolina 3234, Serina 4493, Treonina 2998, Triptófano 650, Tirosina 2933, Valina 4201
+
+### Proteína de cáñamo (55 g proteína/100 g)
+Energía: 372 kcal | Grasas: 9 g | HC: 7,8 g (azúcares 5,3 g) | Sal: 0,21 g
+
+Aminograma (mg/100 g producto):
+Alanina 2100, Arginina 6300, Aspártico 5200, Cisteína 880, Glutámico 8890, Glicina 2200, Histidina 1300, Isoleucina 1900, Leucina 3200, Lisina 1900, Metionina 1100, Fenilalanina 2300, Prolina 1900, Serina 2500, Treonina 1700, **Triptófano 0**, Tirosina 1900, Valina 2400
+
+Nota: la etiqueta consultada reporta 0 mg de triptófano. Otras fuentes de literatura científica sitúan el triptófano del cáñamo bajo pero no nulo (~0,2 g/100 g proteína), por lo que este 0 podría reflejar el límite de detección del lote analizado más que una ausencia real. Se mantiene el dato de etiqueta por ser la fuente primaria del producto concreto, con esta advertencia.
+
+### Proteína de semilla de calabaza (75 g proteína/100 g)
+Energía: 400 kcal | Grasas: 5,6 g | HC: 8 g (azúcares 2,4 g) | Fibra: 9,6 g | Sal: 0,01 g
+
+Aminograma (mg/100 g producto):
+Alanina 3297, Arginina 11727, Aspártico 6669, Cisteína 985, Glutámico 14368, Glicina 3723, Histidina 1738, Isoleucina 2775, Leucina 5237, Lisina 2730, Metionina 1596, Fenilalanina 3864, Prolina 2730, Serina 3700, Treonina 2223, Triptófano 1149, Tirosina 2469, Valina 3603
+
+## Cumplimiento del patrón FAO en solitario (mismo método que soja/guisante/arroz)
+
+| Producto | Aminoácido limitante | Puntuación | ¿Cumple solo? |
+| --- | --- | ---: | :---: |
+| Garbanzo | Valina | 117,8% | Sí |
+| Lenteja | Metionina+Cisteína | 99,4% | Al límite (no llega por un margen mínimo) |
+| Cáñamo | Triptófano | 0% | No — limitante severo según esta etiqueta |
+| Semilla de calabaza | Lisina | 75,8% | No |
+
+Lectura: garbanzo y lenteja se comportan como las legumbres ya conocidas (soja, guisante) — casi completas en solitario. El cáñamo es el más débil de las cuatro por su triptófano prácticamente nulo en esta etiqueta, y la calabaza es limitante en lisina, coherente con la literatura científica revisada previamente.
+
+## Mezcla que cumple el patrón combinando las cuatro nuevas fuentes
+
+**50% garbanzo + 30% cáñamo + 20% semilla de calabaza, por peso de polvo**, calculado con el mismo método (aminograma ponderado por proteína real aportada por cada polvo).
+
+| Aminoácido indispensable | Mezcla 50/30/20 (mg/g proteína) | Patrón FAO | Cumple |
+| --- | ---: | ---: | :---: |
+| Lisina (limitante) | 51,8 | 48 | Sí (107,8%) |
+| Resto de aminoácidos | Todos por encima de 110% del patrón | — | Sí |
+
+Esta mezcla resuelve el triptófano casi nulo del cáñamo apoyándose en garbanzo y calabaza, y compensa la lisina más baja de cáñamo/calabaza con el garbanzo.
+
+## Conclusión práctica
+
+- Garbanzo y lenteja no necesitan combinarse con nada para cumplir el patrón — son funcionalmente equivalentes a soja/guisante como base.
+- Cáñamo es la fuente más floja de las cuatro nuevas (triptófano ~0 en esta etiqueta, lisina y leucina algo bajas) — no debe usarse en solitario como única fuente de proteína.
+- Semilla de calabaza es limitante en lisina, coherente con literatura, pero se complementa fácilmente con cualquiera de las legumbres (garbanzo, lenteja, soja, guisante).
+- La mezcla 70% soja + 20% guisante + 10% arroz descrita anteriormente sigue siendo válida y ya cumple el patrón; estas cuatro fuentes nuevas son alternativas de variedad, no una necesidad nutricional adicional.
