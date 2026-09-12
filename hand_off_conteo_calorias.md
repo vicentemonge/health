@@ -1,5 +1,7 @@
 # Handoff: Contador de calorías diario
 
+Este repositorio también incluye [analisis_clinicos.md](analisis_clinicos.md), con el histórico de analíticas de sangre y orina del usuario. Consultar ese fichero cuando la conversación trate sobre valores de laboratorio, vitaminas, perfil lipídico u otros parámetros clínicos.
+
 ## Instrucción principal
 
 **CONTADOR DE CALORÍAS — ESTÁNDAR**
